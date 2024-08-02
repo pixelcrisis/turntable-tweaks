@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  A Chrome Extension & Bookmarklet for deepcut.fm
-  <br>Apply tweaks to deepcut.fm - autobop, autodj, themes, styles, and more!
+  A Chrome Extension & Bookmarklet for deepcut.live
+  <br>Apply tweaks to deepcut.live - autobop, autodj, themes, styles, and more!
 </p>
 
 <p align="center">
